@@ -1,0 +1,21 @@
+{
+  "name": "Secrets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "md5": "^2.2.1",
+    "mongoose": "^5.8.9",
+    "mongoose-encryption": "^2.0.2"
+  }
+}
